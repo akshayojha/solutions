@@ -1,4 +1,4 @@
-/* 
+/*
    zigziag.cpp -- Topcoder Div 1
    Problem Statement: https://community.topcoder.com/stat?c=problem_statement&pm=1259&rd=4493
 */
